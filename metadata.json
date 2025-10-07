@@ -1,0 +1,23 @@
+{
+  "name": "Nebulaxy Coin",
+  "symbol": "NEBX",
+  "description": "DThe ultimate DeFi Utility Token designed specifically for the Solana ecosystem.",
+  "image": "",
+  "external_url": "https://nebulaxy.ai",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Utility Token"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    }
+  ],
+  "properties": {
+    "website": "https://nebulaxy.ai",
+    "twitter": "https://x.com/nebulaxy_ai",
+    "telegram": "",
+    "discord": ""
+  } 
+}
